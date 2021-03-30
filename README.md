@@ -1,5 +1,5 @@
 # kubernetes-demo-project
-Kubernetes implementation with Minikube and spring boot
+Kubernetes implementation with Minikube, Spring boot & Docker
 
 # Steps : 
 ### Start minikube
