@@ -34,12 +34,12 @@ Kubernetes implementation with Minikube and spring boot
 ## Some important comands 
 ### Get list of deployments & delete
 - kubectl get deployment
-- kubectl delete deploy <deployment name>
+- kubectl delete deploy `<deployment name>`
 
 ### Get list of services & delete
 - kubectl get services
-- kubectl delete service
+- kubectl delete service `<service name>`
 
 ### Get list of pods & delete
 - kubectl get pods
-- kubectl delete pod <pod name>
+- kubectl delete pod `<pod name>`
