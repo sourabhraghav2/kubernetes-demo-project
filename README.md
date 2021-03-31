@@ -43,3 +43,9 @@ Kubernetes implementation with Minikube, Spring boot & Docker
 ### Get list of pods & delete
 - kubectl get pods
 - kubectl delete pod `<pod name>`
+
+### Get logs of pod
+- kubectl logs `<pod name>`
+
+### Execute commands inside pod
+- kubectl exec -it --namespace `<namespace>` `<pod-name>` bash
