@@ -23,7 +23,7 @@ Kubernetes implementation with Minikube, Spring boot & Docker
 1. kubectl create deployment `<deployment name>` --image=`<image name with namespace>` 
 2. kubectl expose deployment `<deployment name>` --target-port=9004 --type=NodePort --port=9004 
 
-Image : sourabhraghav/kubernetes-demo-project
+Image : sourabhraghav/kubernetes-demo-project  
 Deployment name : kubernetes-demo-project
 
 ### Using yaml file
